@@ -1,2 +1,5 @@
+count = 10
 while count > 1 do 
-  puts 
+  puts ""
+  count -= 1
+end
